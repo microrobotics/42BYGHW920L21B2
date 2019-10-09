@@ -1,6 +1,6 @@
 # 42BYGHW920L21B2
-Wantai Stepper Motor, 0.65NM, Dual Shaft NEMA17
-https://www.robotics.org.za/42BYGHW920L21B2
+- Wantai Stepper Motor, 0.65NM, Dual Shaft NEMA17
+- https://www.robotics.org.za/42BYGHW920L21B2
 
 - Rated Current/phase: 1.68A
 - Step Angle: 1.8°
